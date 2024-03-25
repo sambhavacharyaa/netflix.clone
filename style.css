@@ -242,7 +242,7 @@ footer div {
     }
 }
 
-@media screen and (max-width: 596px) {
+@media screen and (max-width: 600px) {
     .flex {
         gap: 260px;
     }
